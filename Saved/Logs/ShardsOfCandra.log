@@ -1435,3 +1435,26 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.02-14.02.57:228][200]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f5d8d237-d754-45d4-908c-93369f2d23a2}, Name=Headphones (Arctis 7 Game)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=13.98
 [2022.11.02-14.02.57:228][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2022.11.02-14.02.57:232][201]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.02-14.06.08:287][160]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/ThirdPersonController.ThirdPersonController
+[2022.11.02-14.06.08:288][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.02-14.06.18:171][227]LogSlate: Window 'ThirdPersonController' being destroyed
+[2022.11.02-14.06.18:177][227]LogSlate: Window 'ThirdPersonController' being destroyed
+[2022.11.02-14.06.18:214][227]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-14.06.18:215][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-14.06.21:144][561]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2022.11.02-14.06.21:144][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.02-14.06.26:112][ 95]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.02-14.06.52:149][646]LogSlate: Window 'Create New Blueprint' being destroyed
+[2022.11.02-14.06.52:162][646]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/DefaultHUD.DefaultHUD
+[2022.11.02-14.06.52:163][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.02-14.06.52:488][646]LogViewport: Scene viewport resized to 1525x974, mode Windowed.
+[2022.11.02-14.07.05:111][929]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.02-14.07.08:809][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.11.02-14.07.08:869][350]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2022.11.02-14.07.08:869][350]LogSavePackage: Moving 'C:/Users/midge/OneDrive/Documents/Unreal Projects/ShardsOfCandra/ShardsOfCandra/Saved/BP_ThirdPersonGameMode43DCDE90465A9E86FF2A9BA1D491939A.tmp' to 'C:/Users/midge/OneDrive/Documents/Unreal Projects/ShardsOfCandra/ShardsOfCandra/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2022.11.02-14.07.08:870][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/DefaultHUD" FILE="C:/Users/midge/OneDrive/Documents/Unreal Projects/ShardsOfCandra/ShardsOfCandra/Content/UI/DefaultHUD.uasset" SILENT=true
+[2022.11.02-14.07.08:872][350]LogSavePackage: Moving output files for package: /Game/UI/DefaultHUD
+[2022.11.02-14.07.08:872][350]LogSavePackage: Moving 'C:/Users/midge/OneDrive/Documents/Unreal Projects/ShardsOfCandra/ShardsOfCandra/Saved/DefaultHUDD5AD61D640AF4AF6F8ABF48352F7825C.tmp' to 'C:/Users/midge/OneDrive/Documents/Unreal Projects/ShardsOfCandra/ShardsOfCandra/Content/UI/DefaultHUD.uasset'
+[2022.11.02-14.07.08:891][350]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.02-14.07.08:891][350]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2022.11.02-14.07.08:891][350]LogContentValidation: Display: Validating Blueprint /Game/UI/DefaultHUD.DefaultHUD
