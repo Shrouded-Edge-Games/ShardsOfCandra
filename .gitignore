@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Content/Assets/Halloween_Pumpkins/Textures/T_Ground_N.uasset
 Content/Assets/Halloween_Pumpkins/Textures/T_Ground_BC.uasset
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Intermediate/CachedAssetRegistry.bin
+Saved/Logs/ShardsOfCandra.log
